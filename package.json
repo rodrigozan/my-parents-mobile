@@ -1,5 +1,9 @@
 {
   "main": "node_modules/expo/AppEntry.js",
+  "tags": ["react", "react native"],
+  "author": {
+    "name": "Rodrigo Zandonadi"
+  },
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
